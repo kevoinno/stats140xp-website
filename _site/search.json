@@ -18,14 +18,21 @@
     "href": "index.html",
     "title": "Kevin Ngo",
     "section": "",
-    "text": "University of California, Los Angeles (UCLA) B.S. Statistics & Data Science | Expected June 2026"
+    "text": "Hey, I’m Kevin!\nI’m studying statistics with an interest in experimentation and causal inference.\nOutside of school, I love playing badminton!"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Kevin Ngo",
+    "section": "",
+    "text": "Hey, I’m Kevin!\nI’m studying statistics with an interest in experimentation and causal inference.\nOutside of school, I love playing badminton!"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Kevin Ngo",
-    "section": "",
-    "text": "University of California, Los Angeles (UCLA) B.S. Statistics & Data Science | Expected June 2026"
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles (UCLA)\nB.S. Statistics & Data Science | Expected June 2026"
   },
   {
     "objectID": "index.html#experience",

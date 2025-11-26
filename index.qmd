@@ -1,5 +1,5 @@
 ---
-title: "Kevin Ngo"
+title: ""
 about:
   template: trestles
   image: new_headshot.jpg
@@ -19,9 +19,18 @@ toc: false
 
 
 
+## About
+
+Hey, I'm Kevin!
+
+I'm studying statistics with an interest in experimentation and causal inference.
+
+Outside of school, I love playing badminton!
+
+
 ## Education
 
-University of California, Los Angeles (UCLA) 
+University of California, Los Angeles (UCLA)  
 B.S. Statistics & Data Science | Expected June 2026
 
 
