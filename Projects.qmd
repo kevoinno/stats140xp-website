@@ -1,0 +1,8 @@
+---
+toc: false
+---
+
+
+## [Causal Buddy](https://causal-buddy.streamlit.app/)
+
+There are many great causal inference resources out already, but they don't provide a quick-hands-on way for students to play around with data, which really helps build intuition about the methods. So I built a platform that allows users to play around with simulated data. Check it out now!

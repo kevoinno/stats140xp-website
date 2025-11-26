@@ -1,16 +1,40 @@
 ---
-title: "personal-website"
+title: "Kevin Ngo"
+about:
+  template: trestles
+  image: new_headshot.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/kevin-ngo000
+    - icon: github
+      text: Github
+      href: https://github.com/kevoinno
+    - text: Email
+      url: "mailto:kevoinngo@ucla.edu"
+    - text: Resume
+      url: "Kevin_Ngo_Resume.pdf"
+toc: false
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+## Education
 
-```{r}
-runif(10)
-```
+University of California, Los Angeles (UCLA) 
+B.S. Statistics & Data Science | Expected June 2026
 
+
+## Experience
+
+**Capital One**  
+*Data Analyst Intern (Jun 2025 - Aug 2025)*  
+• Servicing Data Excellence Team
+
+**UCLA Fielding School of Public Health**  
+*Undergraduate Researcher (Mar 2025 - Aug 2025)*  
+• CDC-funded project on alcohol vendors and gun violence
+
+**Liberty Mutual Insurance**  
+*Data Analyst Intern (Jun 2024 - Aug 2024)*  
+• Advanced Analytics Team

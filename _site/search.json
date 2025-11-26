@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal-website",
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Kevin Ngo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.0722717 0.2787175 0.8967531 0.8294645 0.8900374 0.6557808 0.1770517\n [8] 0.6797683 0.1133931 0.6635267"
+    "text": "There are many great causal inference resources out already, but they don’t provide a quick-hands-on way for students to play around with data, which really helps build intuition about the methods. So I built a platform that allows users to play around with simulated data. Check it out now!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Projects.html#causal-buddy",
+    "href": "Projects.html#causal-buddy",
+    "title": "Kevin Ngo",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "There are many great causal inference resources out already, but they don’t provide a quick-hands-on way for students to play around with data, which really helps build intuition about the methods. So I built a platform that allows users to play around with simulated data. Check it out now!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kevin Ngo",
+    "section": "",
+    "text": "University of California, Los Angeles (UCLA) B.S. Statistics & Data Science | Expected June 2026"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kevin Ngo",
+    "section": "",
+    "text": "University of California, Los Angeles (UCLA) B.S. Statistics & Data Science | Expected June 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Kevin Ngo",
+    "section": "Experience",
+    "text": "Experience\nCapital One\nData Analyst Intern (Jun 2025 - Aug 2025)\n• Servicing Data Excellence Team\nUCLA Fielding School of Public Health\nUndergraduate Researcher (Mar 2025 - Aug 2025)\n• CDC-funded project on alcohol vendors and gun violence\nLiberty Mutual Insurance\nData Analyst Intern (Jun 2024 - Aug 2024)\n• Advanced Analytics Team"
   }
 ]
